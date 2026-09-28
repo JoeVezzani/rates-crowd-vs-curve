@@ -1,0 +1,14 @@
+sector,n,beta10,corr,ret_since_feb27
+basic-materials,42,-2.099,-0.395,-8.528
+consumer-cyclical,80,-1.602,-0.308,-10.792
+industrials,103,-1.420,-0.296,-1.581
+technology,143,-1.405,-0.185,20.668
+healthcare,98,-1.087,-0.216,7.959
+"industrials,defense",17,-1.073,-0.225,-14.612
+"financial-services,banks",46,-1.010,-0.307,11.328
+communication-services,39,-0.805,-0.171,-2.084
+real-estate,41,-0.792,-0.279,-4.289
+consumer-defensive,42,-0.731,-0.193,-8.121
+financial-services,88,-0.597,-0.158,5.280
+utilities,38,-0.492,-0.178,-12.783
+energy,52,1.327,0.319,8.991
